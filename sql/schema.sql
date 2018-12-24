@@ -13,7 +13,7 @@ CREATE TABLE users(
 
 CREATE TABLE exercises(
     username VARCHAR(30) NOT NULL,
-    date VARCHAR(30),
+    calendar VARCHAR(30),
     exercise VARCHAR(40) NOT NULL,
     sets VARCHAR(10) NOT NULL,
     reps VARCHAR(10) NOT NULL,

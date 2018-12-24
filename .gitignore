@@ -1,3 +1,4 @@
 env/
 var/
 fit.egg-info/
+node_modules/
